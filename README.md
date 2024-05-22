@@ -81,8 +81,8 @@ For Question 3:
 
 ## Data
 This project uses synthetic data mimicking real-world scenarios involving student financial profiles and loan details. Ensure you have the following datasets available in the data folder:
-students.csv: Contains student financial profiles.
-loans.csv: Contains details about various loan options.
+- students.csv: Contains student financial profiles.
+- loans.csv: Contains details about various loan options.
 
 ## Contributing
 This project benefits from the contributions of:
