@@ -26,11 +26,6 @@ https://github.com/col-mustang/neural-network-challenge-1
 - GitHub Copilot - AI assistant that helps in writing better code.
 - ChatGPT - AI model for generating documentation and guidance.
 
-## Features
-Personalized Recommendations: Offers loan options based on individual financial situations, academic data, and future earnings potential.
-Secure and Private: Implements robust security measures to protect user data.
-Bias Mitigation: Ensures fair and unbiased recommendations through regular audits.
-
 ## Requirements
 - Prepare the Data for Use on a Neural Network Model (15 points)
 - Two datasets were created: a target (y) dataset, which includes the "credit_ranking" column, and a features (X) dataset, which includes the other columns. (5 points)
